@@ -10,4 +10,5 @@ ML Algorithms (CLassification algorithms and Random Forest Model)<br>
 Google Translator API<br>
 Eleven Labs API<br>
 <br>
-Folder Structure:<br>
+
+(to be continued)
