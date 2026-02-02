@@ -2,7 +2,7 @@ SignWhispers aims to bridge the gap between Sign language users (deaf/mute) and 
 It is a web based software where the sign language user records his gestures and they are translated into english or any other required language.
 
 Technology used:<br>
-HTML, CSS, JS, REACT (frontend) <br>
+REACT with TAILWIND CSS <br>
 Python Flask API <br>
 MongoDB<br>
 OpenCV + Mediapipe<br>
