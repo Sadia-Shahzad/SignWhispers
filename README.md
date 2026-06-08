@@ -6,7 +6,11 @@ We have used machine learning techniques "Random Forest Algorithm" that classifi
 Additionally, user can choose his desired language from the dropdown menu in which he wants the text on the screen to be and can even listen to the generated text as well. 
 <br>
 <br>
-<b>Tech Stack used:<b>
+<b>Tech Stack used:<b> 
+<br>
 ~ React.js for fontend 
+<br>
 ~ Python FastAPI for backend
+<br>
 ~ ML technique "Random Forest Algorithm" for classification purposes
+<br>
