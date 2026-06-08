@@ -3,4 +3,10 @@ Mute persons use their own Sign Language which they use to communicate among the
 <br>
 We have used machine learning techniques "Random Forest Algorithm" that classifies the gestures performed by the mute persons into English alphabets and produce a string of words on screen.
 <br>
-Additionally, user can choose his desired language from the dropdown menu in which he wants the text on the screen to be and can even listen to the generated text as well.
+Additionally, user can choose his desired language from the dropdown menu in which he wants the text on the screen to be and can even listen to the generated text as well. 
+<br>
+<br>
+<b>Tech Stack used:<b>
+~ React.js for fontend 
+~ Python FastAPI for backend
+~ ML technique "Random Forest Algorithm" for classification purposes
