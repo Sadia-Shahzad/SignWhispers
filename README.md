@@ -7,8 +7,6 @@ Additionally, user can choose his desired language from the dropdown menu in whi
 <br>
 <br>
 <b>Tech Stack used:</b> 
-
-<br>
 ~ React.js for fontend 
 <br>
 ~ Python FastAPI for backend
